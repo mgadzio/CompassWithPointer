@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Compass</string>
+    <string name="coordinate_dialog_prefill" />
+    <string name="coordinate_dialog_title">Enter coordinate</string>
+    <string name="coordinate_dialog_hint_latitude">Latitude</string>
+    <string name="coordinate_dialog_hint_longitude">Longitude</string>
+    <string name="coordinate_dialog_invalid_coordinate">Insert coordinate in format 50,12</string>
+    <string name="compass_permission_location_not_granted">Location permission not granted, closing app..</string>
+
+</resources>
